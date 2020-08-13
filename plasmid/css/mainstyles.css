@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    text-rendering: geometricPrecision;
+}
+.highlights{
+    font-size: 20px;
+    font-weight: 900;
+
+}
+
+.highlights span {
+    width: 100%;
+    float: left;
+}
+.right-col{
+    font-size: 5vw;
+    font-weight: 300;
+    color: #666;
+
+    flex-direction: column;
+    justify-content: center;
+}
